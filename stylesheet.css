@@ -39,7 +39,8 @@
 
 }
 
-div.large div.medium div.small{
-    padding: 20px;
+div.large, div.medium, div.small{
+    padding: 10px;
+    color: peachpuff;
 }
 
